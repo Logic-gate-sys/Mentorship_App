@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 Finding a mentor as a student is hard. Finding one who actually matches your interests and takes real responsibility for your growth is harder. **Ashesi Mentorship Platform** exists to close that gap — connecting students with mentors in a structured, trackable way that supports real professional development, not just a one-off introduction.
 
@@ -23,7 +23,7 @@ Built as a team project at Ashesi University.
 
 ---
 
-## 🎥 Demo
+## Demo
 
 <!--
   Add a GIF or screen recording of the app in action below.
@@ -35,7 +35,7 @@ Built as a team project at Ashesi University.
   <img src="./docs/demo.gif" alt="App demo" width="800"/>
 </div>
 
-> 📹 *Demo GIF coming soon — drop your recording in `/docs/demo.gif` and it'll render here.*
+> *Demo GIF coming soon — drop your recording in `/docs/demo.gif` and it'll render here.*
 
 ---
 
